@@ -1,0 +1,24 @@
+.lt-form-table td {
+    vertical-align: top;
+    
+}
+.lt-form-table td:first-child {
+    width: 20%;
+}
+.lt-tab-content {
+    display: none;
+}
+#lt_settings p.submit {
+    padding: 0;
+    margin-bottom: 0;
+}
+input.small-text{
+    padding: 5px 6px;
+    width: 70px;
+}
+.file-input-advanced select {
+    width: 20%;
+}
+.lt-display-none {
+    display: none;
+}
